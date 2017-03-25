@@ -3,6 +3,8 @@
 ### Erarbeitung einer grafischen Benutzerschnittstelle für die Telemedizin-App Wink. 
 Semesterarbeit
 
+![Usability-Test, Testperson 1](UCD-Testperson1-resized.png "Usability-Test, Testperson 1")
+
 Dieser Hi-Fi Prototype bildet die Szenarien aus dem Detailkonzept ab und wird für einen Usability-Test verwendet.
 
 - Technologie: Android OS, Axure RP.
