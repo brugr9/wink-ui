@@ -1,6 +1,6 @@
 # wink-ui
 ## User-centered Design für Mobile-App
-### Erarbeitung einer grafischen Benutzerschnittstelle für die Telemedizin-App Wink. 
+### Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink'. 
 Semesterarbeit
 
 ![Usability-Test](UCD-Testperson1-resized.png "Usability-Test")
