@@ -11,7 +11,7 @@ Dieser Hi-Fi Prototype bildet die Szenarien aus dem Detailkonzept ab und wird f√
 - Weblinks: [Bericht](https://www.hashdoc.com/documents/476937/user-centered-design-f-r-mobile-app), [Lo-Fi Prototype](https://speakerdeck.com/brugr9/wink-lo-fi-prototype), [Screencast Usability-Test](https://vimeo.com/210055843).
 
 <hr>
-Studiengang: Informatik, Modul BTI7083 User-centered Design
+Studiengang: BFH-TI, Informatik, Modul BTI7083 User-centered Design
 
 Autoren: Sandro Blatter, Roland Bruggmann, Michael Ramahenina, Glenn Ryser.
 
