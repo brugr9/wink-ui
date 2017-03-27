@@ -1,11 +1,9 @@
 # wink-ui
-## Grafische Benutzerschnittstelle für die Telemedizin-App 'Wink'
-### Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit agilen Methoden des User-centered Design. 
-Semesterarbeit
+## Hi-Fi Prototype der grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink'
+### Semesterarbeit
+Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit agilen Methoden des User-centered Design. Dieser Hi-Fi Prototype bildet die Szenarien aus dem Detailkonzept ab (siehe Bericht) und wird für die Usability-Tests verwendet.
 
 ![Usability-Test](UCD-Testperson1-resized.png "Usability-Test")
-
-Dieser Hi-Fi Prototype bildet die Szenarien aus dem Detailkonzept ab (siehe Bericht) und wird für die Usability-Tests verwendet.
 
 - Technologie: Android OS, Axure RP.
 - [Bericht](https://www.hashdoc.com/documents/476937/user-centered-design-f-r-mobile-app), [Lo-Fi Prototype](https://speakerdeck.com/brugr9/wink-lo-fi-prototype). 
