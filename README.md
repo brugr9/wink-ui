@@ -1,7 +1,7 @@
 # wink-ui
 ### Hi-Fi Prototype der Benutzerschnittstelle für die Telemedizin-App 'Wink'
  
-Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit agilen Methoden des User-centered Design. 
+Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit Methoden des User-centered Design. 
 
 ![Usability-Test](UCD-Testperson1-resized.png "Usability-Test")
 
