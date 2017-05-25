@@ -7,8 +7,8 @@ Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink
 
 Nach einem Entwurf der Benutzerschnittstelle als Lo-Fi Prototype mit Balsamiq wurde mit Axure RP dieser Hi-Fi Prototype erstellt. Er bildet die Szenarien aus dem Detailkonzept ab. Der Hi-Fi Prototype wurde für die Usability-Tests mit zwei Testpersonen verwendet.
 
-- [Bericht](https://www.hashdoc.com/documents/476937/user-centered-design-f-r-mobile-app)
-- [Lo-Fi Prototype](https://speakerdeck.com/brugr9/wink-ui-lo-fi-prototype) 
+- [Bericht](https://www.slideshare.net/RolandBruggmann/usercentered-design-fr-mobileapp)
+- [Lo-Fi Prototype](https://www.slideshare.net/RolandBruggmann/winkui-lofi-prototype) 
 - [Screencast Usability-Test Testperson 1](https://vimeo.com/210055843)
 - [Screencast Usability-Test Testperson 1](https://vimeo.com/210064865)
 
