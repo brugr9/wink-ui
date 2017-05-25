@@ -10,7 +10,7 @@ Nach einem Entwurf der Benutzerschnittstelle als Lo-Fi Prototype mit Balsamiq wu
 - [Bericht](https://www.slideshare.net/RolandBruggmann/usercentered-design-fr-mobileapp)
 - [Lo-Fi Prototype](https://www.slideshare.net/RolandBruggmann/winkui-lofi-prototype) 
 - [Screencast Usability-Test Testperson 1](https://vimeo.com/210055843)
-- [Screencast Usability-Test Testperson 1](https://vimeo.com/210064865)
+- [Screencast Usability-Test Testperson 2](https://vimeo.com/210064865)
 
 <hr>
 Studiengang: BFH-TI, Informatik, Modul BTI7083 User-centered Design, Semesterarbeit
