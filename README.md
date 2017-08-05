@@ -1,11 +1,10 @@
 # wink-ui
-### Hi-Fi Prototype der Benutzerschnittstelle für die Telemedizin-App 'Wink'
- 
-Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit Methoden des User-centered Design. 
+### Hi-Fi-Prototype der grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink'
 
 ![Usability-Test](UCD-Testperson1-resized.png "Usability-Test")
 
-Nach einem Entwurf der Benutzerschnittstelle als Lo-Fi Prototype mit Balsamiq wurde mit Axure RP dieser Hi-Fi Prototype erstellt. Er bildet die Szenarien aus dem Detailkonzept ab. Der Hi-Fi Prototype wurde für die Usability-Tests mit zwei Testpersonen verwendet.
+Erarbeiten einer grafischen Benutzerschnittstelle für die Telemedizin-App 'Wink' mit Methoden des User-centered Design: 
+Nach einem Entwurf der Benutzerschnittstelle als Lo-Fi-Prototype mit Balsamiq wurde mit Axure RP dieser Hi-Fi-Prototype erstellt. Er bildet die Szenarien aus dem Detailkonzept ab. Der Hi-Fi Prototype wurde für die Usability-Tests mit zwei Testpersonen verwendet.
 
 - [Bericht](https://www.slideshare.net/RolandBruggmann/usercentered-design-fr-mobileapp)
 - [Lo-Fi Prototype](https://www.slideshare.net/RolandBruggmann/winkui-lofi-prototype) 
